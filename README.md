@@ -1,9 +1,9 @@
 # tower-of-hanoi-program-with-cpp
 
-# Execution of Tower of Hanoi program with c++
+# Execution of Tower of Hanoi program with c++ \n\n
 
-toh(3,a,b,c)
-    toh(2,a,c,b)
+toh(3,a,b,c) \n
+    toh(2,a,c,b)\n
         toh(1,a,b,c)
             toh(0,a,c,b)
             print a->c              a -> c
